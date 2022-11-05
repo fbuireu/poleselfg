@@ -1,3 +1,9 @@
+# poleselfg
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+
 <h2> I'm Pole!!</h2>
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Software engineer at <a href="https://www.new-work.se/en">New Work  </a>
@@ -29,3 +35,4 @@ const pole = {
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+</details>
